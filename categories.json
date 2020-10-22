@@ -373,5 +373,11 @@
     "name": "Work",
     "slug": "work",
     "description": "projects focused on gig economies, future of work and professional reputation"
+  },
+  
+   {
+    "name": "Trading platforms",
+    "slug": "trading-platforms",
+    "description": "projects focused on trading ecosystem, brokers, quant trading, trading tools, training resources"
   }
 ]
